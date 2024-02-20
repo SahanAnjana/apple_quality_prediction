@@ -1,0 +1,12 @@
+name: AppleQualityPrediction
+title: AppleQualityPrediction
+username: sahananjana
+account: sahananjana
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11213099
+bundleId: 8250869
+url: https://sahananjana.shinyapps.io/AppleQualityPrediction/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
